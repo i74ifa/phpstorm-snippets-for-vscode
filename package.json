@@ -1,5 +1,5 @@
 {
-    "name": "php-snippets",
+    "name": "phpstorm-snippets",
     "displayName": "PHP Snippets from PHPStorm",
     "description": "Snippet pack from PHPStorm's Live templates",
     "version": "1.1.0",
@@ -8,15 +8,12 @@
         "vscode": "^0.10.x"
     },
     "keywords": [
-        "PHPstorm",
-        "PHP",
-        "Snippets",
-        "Live Templates"
+        "PHPstorm", "PHP", "Snippets", "Live Templates"
     ],
     "repository": {
         "type": "git",
         "url": "https://github.com/phiterf/phpstorm-snippets-for-vscode.git"
-    },
+      },
     "categories": [
         "Snippets"
     ],
