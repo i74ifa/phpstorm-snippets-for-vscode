@@ -26,6 +26,7 @@ Type part of a snippet, press <kbd>Enter</kbd> (or <kbd>Tab</kbd> if you have `e
 | `rqr`   | `require` statement                                  |
 | `rqro`  | `require_once` statement                             |
 | `thr`   | `throw new` (by default, an `\Exception`)            |
+| `thr`   | `test function to phpunit`           |
 
 ---
 

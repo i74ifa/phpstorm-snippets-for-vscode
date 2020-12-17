@@ -112,5 +112,16 @@
             "throw new ${1:\\Exception}(\"${2:Error Processing Request}\");"
         ],
         "description" : "throw new"
+    },
+
+    "test" : {
+        "prefix" : "test",
+        "body" : [
+            "/** @test */",
+            "public function $1($2)",
+            "{",
+            "\t$0",
+            "}"
+        ]
     }
 }
